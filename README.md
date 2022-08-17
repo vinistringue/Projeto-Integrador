@@ -1,5 +1,5 @@
 # Projeto-Integrador Assistente de Administração de Banco de Dados
- Projeto Integrador curso desenvolvimento de sistemas 
+ Projeto Integrador do curso de desenvolvimento de sistemas 
 
 **O que é o projeto?**
 
