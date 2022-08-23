@@ -1,5 +1,5 @@
 # Projeto-Integrador Assistente de Administração de Banco de Dados
- Projeto Integrador - Tinla: Sistema de Controle de Vendas
+ **PROJETO INTEGRADOR - TINLA: SISTEMA DE CONTROLE DE VENDAS**
 
 **APRESENTAÇÃO**
 
